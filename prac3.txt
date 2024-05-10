@@ -1,0 +1,10 @@
+///prac 3
+
+sudo grep -c "svm\|vmx" /proc/cpuinfo
+
+sudo apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager
+
+sudo virsh -c qemu:///system list
+
+sudo virt-manager
+
