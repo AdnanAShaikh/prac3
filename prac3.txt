@@ -8,3 +8,4 @@ sudo virsh -c qemu:///system list
 
 sudo virt-manager
 
+//https://drive.google.com/drive/folders/1cG8ICmOG-MzdB9_UcOlLYCFm2wjDZlVh
